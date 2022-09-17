@@ -1,21 +1,6 @@
-<?xml version="1.0"?> 
-<sharpUpdate> 
-    <update> 
-        <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/Modz2014/GameUpdater/master/GameUpdater.exe</url> 
-        <filePath>./GameUpdater.exe</filePath>
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>Update: 10/06/2018:
-        1. Updated a label.</description> 
-        <launchArgs></launchArgs> 
-    </update>
-    <update> 
-        <version>1.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/Modz2014/GameUpdater/master/SharpUpdate.dll</url> 
-        <filePath>./SharpUpdate.dll</filePath>
-        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
-        <description>Update: 10/06/2018:
-        1. Support for multiple files updating.</description> 
-        <launchArgs></launchArgs> 
-    </update>
-</sharpUpdate>
+<item>
+<version>4.5.6.0</version>
+<url>
+http://rbsoft.org/downloads/right-click-enhancer/Right-Click-Enhancer-Setup.exe
+</url>
+</item>
